@@ -11,7 +11,7 @@ A image to-do gallery which allow user to add a list and upload image from local
 ---
 
 # Push to GitHub repository
-
+```
 git init
 git add .
 git commit -m "The Nth commit on date."
@@ -19,7 +19,7 @@ git remote rm origin
 git branch -M main
 git remote add origin git@github.com:robin-artemstein/image-todo-gallery.git
 git push -u -f origin main
-
+```
 # Installation
 
 Install Bun first
