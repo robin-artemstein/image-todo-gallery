@@ -8,8 +8,6 @@ A image to-do gallery which allow user to add a list and upload image from local
 - TailwindCSS
 - Bun
 
-The application loads a GLB model and a draggable decal projector with gizmo.
-
 ---
 
 # Push to GitHub repository
