@@ -24,8 +24,6 @@ git push -u -f origin main
 
 Install Bun first
 
-https://bun.sh
-
 Then install dependencies:
 
 ```bash
