@@ -34,7 +34,7 @@ bun dev
 ```
 
 # Project Structure
-
+```
 image-gallery-app/
 |
 ├── public/
@@ -47,3 +47,4 @@ image-gallery-app/
 ├── tailwind.config.js
 ├── package.json
 └── ... (other config files)
+```
